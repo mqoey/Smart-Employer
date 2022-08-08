@@ -1,2 +1,2 @@
-# Smart-Employer
+# Smart Employer
 Employee Management
